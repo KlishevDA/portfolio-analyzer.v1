@@ -5,3 +5,4 @@
 - Стоимость портфеля
 - Доходность (XIRR)
 - Волатильность
+![doxa](https://github.com/user-attachments/assets/5019ab7c-d480-425d-92cf-534c71c0f3ce)
