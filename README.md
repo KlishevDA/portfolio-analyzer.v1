@@ -6,3 +6,4 @@
 - Доходность (XIRR)
 - Волатильность
 ![doxa](https://github.com/user-attachments/assets/5019ab7c-d480-425d-92cf-534c71c0f3ce)
+![vol](https://github.com/user-attachments/assets/b492d100-eca5-43a8-932d-83a1a1560c1b)
